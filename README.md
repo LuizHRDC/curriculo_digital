@@ -1,4 +1,4 @@
-# Currículo Digital de Luiz Henrique
+# Currículo Digital - Luiz Henrique
 
 Este projeto é um currículo digital desenvolvido com HTML e CSS. O currículo é dividido em três seções principais, cada uma representada por uma página HTML:
 
